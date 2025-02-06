@@ -3,7 +3,7 @@
 <h1>Amazon Clone - Responsive Web Project</h1>
 
 <p>
-This is a *fully responsive Amazon Clone* built with *HTML* and *CSS*. It mimics the Amazon shopping experience with modern UI elements, hover effects, and 
+This is a <strong>fully responsive Amazon Clone<strong> built with <strong>HTML<strong> and <strong>CSS<strong>. It mimics the Amazon shopping experience with modern UI elements, hover effects, and 
 
 category-based product displays.
 
@@ -13,13 +13,13 @@ category-based product displays.
 
 <ul>
 
- <li>Fully responsive design</li>
+ <li><strong>Fully responsive design<strong></li>
 
-<li>Hover effects for interactive elements</li>
+<li><strong>Hover effects for interactive elements<strong></li>
 
-<li>Product categories and dynamic layouts</li>
+<li<strong>>Product categories and dynamic layouts<strong></li>
 
-<li>Clean and modern UI</li>
+<li><strong>Clean and modern UI<strong></li>
 
 </ul>
 
@@ -27,11 +27,11 @@ category-based product displays.
 
 <ul>
 
-<li>HTML5</li>
+<li><strong>HTML5<strong></li>
 
-<li>CSS3 (Flexbox & Grid)</li>
+<li><strong>CSS3 (Flexbox & Grid)<strong></li>
 
-<li>Responsive Web Design</li>
+<li><strong>Responsive Web Design<strong></li>
 
 </ul>
 
